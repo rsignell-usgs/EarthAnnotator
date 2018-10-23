@@ -6,7 +6,7 @@ A tool for web-based image annotation and efficient labeling pixels in images.
 
 Implements a rapid technique, described by [Buscombe & Ritchie, (2018)](https://www.mdpi.com/2076-3263/8/7/244), for dense image labeling based on limited manual annotations.
 
-Credits: Thanks to code contributions from [Colin Talbert](https://github.com/talbertc-usgs) and [Rich Signell](https://github.com/rsignell-usgs)  
+Credits: Thanks to code contributions from [Colin Talbert](https://github.com/talbertc-usgs) and [Rich Signell](https://github.com/rsignell-usgs).
 
 ## Run online through your browser:
 
